@@ -129,7 +129,7 @@
   "dependencies": {
     "@jupyterlab/application": "~4.0.0-alpha.6",
     "@jupyterlab/application-extension": "~4.0.0-alpha.6",
-    "@jupyterlab/apputils-extension": "~4.0.0-alpha.6",
+    "@jupyterlab/apputils-extension": "~4.3.5",
     "@jupyterlab/celltags-extension": "~4.0.0-alpha.6",
     "@jupyterlab/codemirror-extension": "~4.0.0-alpha.6",
     "@jupyterlab/completer-extension": "~4.0.0-alpha.6",
