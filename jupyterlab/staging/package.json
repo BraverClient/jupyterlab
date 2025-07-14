@@ -127,16 +127,16 @@
     "yjs": "^13.5.17"
   },
   "dependencies": {
-    "@jupyterlab/application": "~4.0.0-alpha.6",
+    "@jupyterlab/application": "~4.0.0",
     "@jupyterlab/application-extension": "~4.0.0-alpha.6",
     "@jupyterlab/apputils-extension": "~4.0.0-alpha.6",
     "@jupyterlab/celltags-extension": "~4.0.0-alpha.6",
-    "@jupyterlab/codemirror-extension": "~4.0.0-alpha.6",
+    "@jupyterlab/codemirror-extension": "~4.0.0",
     "@jupyterlab/completer-extension": "~4.0.0-alpha.6",
     "@jupyterlab/console-extension": "~4.0.0-alpha.6",
     "@jupyterlab/coreutils": "~6.0.0-alpha.6",
     "@jupyterlab/csvviewer-extension": "~4.0.0-alpha.6",
-    "@jupyterlab/debugger-extension": "~4.0.0-alpha.6",
+    "@jupyterlab/debugger-extension": "~4.0.0",
     "@jupyterlab/docmanager-extension": "~4.0.0-alpha.6",
     "@jupyterlab/docprovider-extension": "~4.0.0-alpha.6",
     "@jupyterlab/documentsearch-extension": "~4.0.0-alpha.6",
@@ -149,7 +149,7 @@
     "@jupyterlab/imageviewer-extension": "~4.0.0-alpha.6",
     "@jupyterlab/inspector-extension": "~4.0.0-alpha.6",
     "@jupyterlab/javascript-extension": "~4.0.0-alpha.6",
-    "@jupyterlab/json-extension": "~4.0.0-alpha.6",
+    "@jupyterlab/json-extension": "~4.0.0",
     "@jupyterlab/launcher-extension": "~4.0.0-alpha.6",
     "@jupyterlab/logconsole-extension": "~4.0.0-alpha.6",
     "@jupyterlab/mainmenu-extension": "~4.0.0-alpha.6",
@@ -172,7 +172,7 @@
     "@jupyterlab/ui-components-extension": "~4.0.0-alpha.6",
     "@jupyterlab/user-extension": "~4.0.0-alpha.6",
     "@jupyterlab/vdom-extension": "~4.0.0-alpha.6",
-    "@jupyterlab/vega5-extension": "~4.0.0-alpha.6"
+    "@jupyterlab/vega5-extension": "~4.0.0"
   },
   "devDependencies": {
     "@jupyterlab/builder": "^4.0.0-alpha.6",
