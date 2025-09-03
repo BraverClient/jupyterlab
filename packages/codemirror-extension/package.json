@@ -47,7 +47,7 @@
     "@jupyterlab/statusbar": "^4.0.0-alpha.6",
     "@jupyterlab/translation": "^4.0.0-alpha.6",
     "@lumino/widgets": "^1.31.1",
-    "codemirror": "~5.61.0"
+    "codemirror": "~6.0.0"
   },
   "devDependencies": {
     "rimraf": "~3.0.0",
