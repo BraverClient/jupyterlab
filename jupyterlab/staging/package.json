@@ -127,7 +127,7 @@
     "yjs": "^13.5.17"
   },
   "dependencies": {
-    "@jupyterlab/application": "~4.0.0-alpha.6",
+    "@jupyterlab/application": "~4.3.5",
     "@jupyterlab/application-extension": "~4.0.0-alpha.6",
     "@jupyterlab/apputils-extension": "~4.0.0-alpha.6",
     "@jupyterlab/celltags-extension": "~4.0.0-alpha.6",
